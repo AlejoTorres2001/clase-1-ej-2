@@ -6,7 +6,7 @@ Las llaves de su jefe se cayeron al fondo del oceano y es su tarea encontrarlas.
 
 Para esto se le ha preparado un submarino especial el cual puede adentrarse en altas profundidades.Una vez dentro usted se dirige al fondo del ocenao donde su submarino realiza un **barrido por sonar** de todo el fondo del oceano.
 
-En una pequeña pantalla, el submarino reporta los datos del **barrido**(datos.txt)
+En una pequeña pantalla, el submarino reporta los datos del **barrido** (datos.txt)
 
 *cada linea es una medida de la profunidad a la que se encuentra el fondo del oceano*.
 
