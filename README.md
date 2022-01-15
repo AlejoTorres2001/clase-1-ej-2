@@ -1,6 +1,6 @@
 # Ejercicio 1
 
-Usted es un cientifico de datos junior, recientemente contratado por la empresa [MSubs](https://www.msubs.com/). Se encuentra tomando un cafe cuando de repente suena la alarma de emergencias!
+Usted es un cientifico de datos junior, recientemente contratado por la empresa [MSubs](https://www.msubs.com/) lider en la fabricacion de submarinos. Se encuentra tomando un cafe cuando de repente suena la alarma de emergencias!
 
 Las llaves de su jefe se cayeron al fondo del oceano y es su tarea encontrarlas.
 
