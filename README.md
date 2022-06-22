@@ -106,3 +106,5 @@ En este ejemplo hay **5** sumas que son mayores a las sumas anteriores
 
 1. **Lea el reporte de profundidad**
 2. **Cuente el numero de sumas que son mayores a la suma anterior**
+
+**Puede realizar un fork del repositorio y trabajar sobre una nueva rama *nom_alumno/solucion* para luego realizar una Pull Request a este repositorio con su trabajo**
